@@ -11,19 +11,20 @@ This project aims to predict the presence or absence of cardiovascular disease b
 
 **Breakdown of the columns:** </br>
 
-id: Identifier for each individual. </br>
-age: Age of the individual in days. </br>
-gender: Gender of the individual (1 for female, 2 for male). </br>
-height: Height of the individual in centimeters. </br>
-weight: Weight of the individual in kilograms. </br>
-ap_hi: Systolic blood pressure. </br>
-ap_lo: Diastolic blood pressure. </br>
-cholesterol: Cholesterol level (1: normal, 2: above normal, 3: well above normal). </br>
-gluc: Glucose level (1: normal, 2: above normal, 3: well above normal). </br>
-smoke: Whether the individual smokes or not (0 for non-smoker, 1 for smoker). </br>
-alco: Whether the individual consumes alcohol or not (0 for non-drinker, 1 for drinker). </br>
-active: Whether the individual engages in regular physical activity or not (0 for inactive, 1 for active). </br>
-cardio: Target variable indicating whether the individual has cardiovascular disease (0 for no disease, 1 for disease). </br>
+1.	**id:** Identifier for each individual. </br>
+2.	**age:** Age of the individual in days. </br>
+3.	**gender:** Gender of the individual (1 for female, 2 for male). </br>
+4.	**height**: Height of the individual in centimeters. </br>
+5.	**weight:** Weight of the individual in kilograms. </br>
+6.	**ap_hi:** Systolic blood pressure. </br>
+7.	**ap_lo:** Diastolic blood pressure. </br>
+8.	**cholesterol:** Cholesterol level (1: normal, 2: above normal, 3: well above normal). </br>
+9.	**gluc:** Glucose level (1: normal, 2: above normal, 3: well above normal). </br>
+10.	**smoke:** Whether the individual smokes or not (0 for non-smoker, 1 for smoker). </br>
+11.	**alco**: Whether the individual consumes alcohol or not (0 for non-drinker, 1 for drinker). </br>
+12.	**active:** Whether the individual engages in regular physical activity or not (0 for inactive, 1 for active). </br>
+13.	**cardio:** Target variable indicating whether the individual has cardiovascular disease (0 for no disease, 1 for disease). </br>
+
 
 Current Model Performance </br>
 The initial machine learning model achieved the following results on the evaluation dataset: </br>
