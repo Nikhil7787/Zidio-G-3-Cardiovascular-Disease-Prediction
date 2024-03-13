@@ -5,5 +5,4 @@ Welcome to the official repository for the "Cardiovascular Disease Prediction" p
 
 ## Cardiovascular Disease Prediction Model
 ### Overview
-This project aims to predict the presence or absence of cardiovascular disease based on various demographic, physical, and medical factors. We have developed an initial machine learning model using the provided dataset and evaluated its performance. The README provides an overview of the model's current performance, our plans for improving accuracy, and our intentions to further develop and deploy the model.</br>
-
+This project aims to predict the presence or absence of cardiovascular disease based on various demographic, physical, and medical factors. We have developed an initial machine learning model using the provided dataset and evaluated its performance.
