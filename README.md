@@ -7,6 +7,25 @@ Welcome to the official repository for the "Cardiovascular Disease Prediction" p
 ### Overview
 This project aims to predict the presence or absence of cardiovascular disease based on various demographic, physical, and medical factors. We have developed an initial machine learning model using the provided dataset and evaluated its performance. The README provides an overview of the model's current performance, our plans for improving accuracy, and our intentions to further develop and deploy the model.</br>
 
+## Basic info on data 
+
+**Breakdown of the columns:** </br>
+
+1.	**id:** Identifier for each individual. </br>
+2.	**age:** Age of the individual in days. </br>
+3.	**gender:** Gender of the individual (1 for female, 2 for male). </br>
+4.	**height**: Height of the individual in centimeters. </br>
+5.	**weight:** Weight of the individual in kilograms. </br>
+6.	**ap_hi:** Systolic blood pressure. </br>
+7.	**ap_lo:** Diastolic blood pressure. </br>
+8.	**cholesterol:** Cholesterol level (1: normal, 2: above normal, 3: well above normal). </br>
+9.	**gluc:** Glucose level (1: normal, 2: above normal, 3: well above normal). </br>
+10.	**smoke:** Whether the individual smokes or not (0 for non-smoker, 1 for smoker). </br>
+11.	**alco**: Whether the individual consumes alcohol or not (0 for non-drinker, 1 for drinker). </br>
+12.	**active:** Whether the individual engages in regular physical activity or not (0 for inactive, 1 for active). </br>
+13.	**cardio:** Target variable indicating whether the individual has cardiovascular disease (0 for no disease, 1 for disease). </br>
+
+
 Current Model Performance </br>
 The initial machine learning model achieved the following results on the evaluation dataset: </br>
 <br>
